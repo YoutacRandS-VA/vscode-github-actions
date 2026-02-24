@@ -557,13 +557,13 @@
     "ts-jest": "^29.0.3",
     "ts-loader": "^9.4.1",
     "typescript": "^4.9.4",
-    "webpack": "^5.76.0",
+    "webpack": "^5.105.2",
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
     "@actions/languageserver": "*",
     "@actions/workflow-parser": "*",
-    "@octokit/rest": "^19.0.7",
+    "@octokit/rest": "^22.0.1",
     "@vscode/vsce": "^2.19.0",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
